@@ -21,7 +21,7 @@ This Power BI project analyzes hospital operations to improve efficiency, patien
 - Bed Occupancy & Length of Stay
 
 
-https://github.com/user-attachments/assets/85cf412a-48e8-4dcf-b6d1-cba9ba087b79
+
 
 
 
