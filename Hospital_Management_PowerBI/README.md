@@ -20,7 +20,7 @@ This Power BI project analyzes hospital operations to improve efficiency, patien
 - Revenue & Billing Analysis
 - Bed Occupancy & Length of Stay
 
-<img width="1313" height="793" alt="Screenshot 2026-01-05 172922" src="https://github.com/user-attachments/assets/d8583479-1cfa-4e5d-8933-5edd379f64ff" />
+<img width="1299" height="789" alt="image" src="https://github.com/user-attachments/assets/3bea0f1c-2810-4b73-83de-a9611a181f23" />
 
 
 
